@@ -1,8 +1,8 @@
-﻿LGA,ABB_NAME,Lat,Long,Percentage Difference
+﻿LGA,ABB_NAME,Lat,Long,Percentage Difference (-100% to 0%)
 QUEENSCLIFFE,Queenscliffe,-38.2667,144.65,-83.33
 MORNINGTON PENINSULA,Mornington Peninsula,-38.4333,145,-72.51
 MANNINGHAM,Manningham,-37.767,145.2,-71.81
-CASEY,Casey,-38.09,145.323,-82.30
+CASEY,Casey,-38.09,145.323,-82.3
 WHITEHORSE,Whitehorse,-37.833,145.15,-66.77
 KINGSTON,Kingston,-37.983,145.1,-65.22
 CARDINIA,Cardinia,-38.083,145.583,-64.75
